@@ -1,0 +1,21 @@
+{
+    "mycocktails" : [{
+
+        "name": "Malibu",
+        "price": 6,
+        "img": "ImgMalibu"
+    },
+
+    {
+        "name": "Monaco",
+        "price": 5,
+        "img": "ImgMonaco"
+    },
+
+    {
+        "name": "Panaché",
+        "price": 4,
+        "img": "ImgPanaché"
+    }]
+
+}
